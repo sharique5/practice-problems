@@ -3,7 +3,7 @@ A new list of solved/unsolved programming problems
 
 | Sno | Status | Problem Name   |      Solution      |
 |-----|--------|:--------------:|-------------------:|
-| 1 | <ul><li>[ ] To Do </li></ul> | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |   |
+| 1 | <ul><li>[x] Done </li></ul> | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [python](./python/3_longest_substring_without_repeating_characters.py), [golang](./golang/3_longest_substring_without_repeating_characters.go)  |
 | 2 | <ul><li>[ ] To Do </li></ul> | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) |   |
 | 3 | <ul><li>[ ] To Do </li></ul> | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) |   |
 | 4 | <ul><li>[x] Done </li></ul> | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [python](./python/242_valid_anagrams.py), [golang](./golang/242_valid_anagram.go)  |
