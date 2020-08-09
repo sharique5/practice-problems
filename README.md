@@ -13,7 +13,7 @@ A new list of solved/unsolved programming problems
 | 8 | <ul><li>[x] Done </li></ul> | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [python](./python/5_longest_palindromic_substring.py), [golang](./golang/5_longest_palindromic_substring.go)  |
 | 9 | <ul><li>[x] Done </li></ul> | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [python](./python/647_palindromic_substrings.py), [golang](./golang/647_palindromic_substrings.go)  |
 | 10 | <ul><li>[x] Done </li></ul> | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [python](./python/206_reverse_linked_list.py), [golang](./golang/206_reverse_linked_list.go)  |
-| 11 | <ul><li>[ ] To Do </li></ul> | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) |   |
+| 11 | <ul><li>[x] Done </li></ul> | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [python](./python/141_linked_list_cycle.py), [golang](./golang/141_linked_list_cycle.go)  |
 | 12 | <ul><li>[ ] To Do </li></ul> | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |   |
 | 13 | <ul><li>[ ] To Do </li></ul> | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |   |
 | 14 | <ul><li>[ ] To Do </li></ul> | [Reorder List](https://leetcode.com/problems/reorder-list/) |   |
