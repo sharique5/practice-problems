@@ -18,3 +18,13 @@ A new list of solved/unsolved programming problems
 | 13 | <ul><li>[x] Done </li></ul> | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [python](./python/19_remove_nth_node_from_end_of_list.py), [golang](./golang/19_remove_nth_node_from_end_of_list.go)  |
 | 14 | <ul><li>[x] Done </li></ul> | [Reorder List](https://leetcode.com/problems/reorder-list/) | [python](./python/143_reorder_list.py), [golang](./golang/143_reorder_list.go)  |
 | 15 | <ul><li>[x] Done </li></ul> | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [python](./python/23_merge_k_sorted_lists.py), [golang](./golang/23_merge_k_sorted_lists.go)  |
+| 16 | <ul><li>[ ] To Do </li></ul> | [Two Sum](https://leetcode.com/problems/two-sum/) |  |
+| 17 | <ul><li>[ ] To Do </li></ul> | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |  |
+| 18 | <ul><li>[ ] To Do </li></ul> | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) |  |
+| 19 | <ul><li>[ ] To Do </li></ul> | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |  |
+| 20 | <ul><li>[ ] To Do </li></ul> | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |  |
+| 21 | <ul><li>[ ] To Do </li></ul> | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) |  |
+| 22 | <ul><li>[ ] To Do </li></ul> | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |  |
+| 23 | <ul><li>[ ] To Do </li></ul> | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) |  |
+| 24 | <ul><li>[ ] To Do </li></ul> | [3Sum](https://leetcode.com/problems/3sum/submissions/) |  |
+| 25 | <ul><li>[ ] To Do </li></ul> | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) |  |
