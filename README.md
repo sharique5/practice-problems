@@ -18,7 +18,7 @@ A new list of solved/unsolved programming problems
 | 13 | <ul><li>[x] Done </li></ul> | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [python](./python/19_remove_nth_node_from_end_of_list.py), [golang](./golang/19_remove_nth_node_from_end_of_list.go)  |
 | 14 | <ul><li>[x] Done </li></ul> | [Reorder List](https://leetcode.com/problems/reorder-list/) | [python](./python/143_reorder_list.py), [golang](./golang/143_reorder_list.go)  |
 | 15 | <ul><li>[x] Done </li></ul> | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [python](./python/23_merge_k_sorted_lists.py), [golang](./golang/23_merge_k_sorted_lists.go)  |
-| 16 | <ul><li>[ ] To Do </li></ul> | [Two Sum](https://leetcode.com/problems/two-sum/) |  |
+| 16 | <ul><li>[x] Done </li></ul> | [Two Sum](https://leetcode.com/problems/two-sum/) | [python](./python/1_two_sum.py), [golang](./golang/1_two_sum.go) |
 | 17 | <ul><li>[ ] To Do </li></ul> | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |  |
 | 18 | <ul><li>[ ] To Do </li></ul> | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) |  |
 | 19 | <ul><li>[ ] To Do </li></ul> | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |  |
