@@ -20,7 +20,7 @@ A new list of solved/unsolved programming problems
 | 15 | <ul><li>[x] Done </li></ul> | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [python](./python/23_merge_k_sorted_lists.py), [golang](./golang/23_merge_k_sorted_lists.go)  |
 | 16 | <ul><li>[x] Done </li></ul> | [Two Sum](https://leetcode.com/problems/two-sum/) | [python](./python/1_two_sum.py), [golang](./golang/1_two_sum.go) |
 | 17 | <ul><li>[ ] To Do </li></ul> | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |  |
-| 18 | <ul><li>[ ] To Do </li></ul> | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) |  |
+| 18 | <ul><li>[x] Done </li></ul> | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [python](./python/217_contains_duplicate.py), [golang](./golang/217_contains_duplicate.go) |
 | 19 | <ul><li>[ ] To Do </li></ul> | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |  |
 | 20 | <ul><li>[ ] To Do </li></ul> | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |  |
 | 21 | <ul><li>[ ] To Do </li></ul> | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) |  |
