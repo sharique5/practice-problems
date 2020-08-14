@@ -21,7 +21,7 @@ A new list of solved/unsolved programming problems
 | 16 | <ul><li>[x] Done </li></ul> | [Two Sum](https://leetcode.com/problems/two-sum/) | [python](./python/1_two_sum.py), [golang](./golang/1_two_sum.go) |
 | 17 | <ul><li>[ ] To Do </li></ul> | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |  |
 | 18 | <ul><li>[x] Done </li></ul> | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [python](./python/217_contains_duplicate.py), [golang](./golang/217_contains_duplicate.go) |
-| 19 | <ul><li>[ ] To Do </li></ul> | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |  |
+| 19 | <ul><li>[x] Done </li></ul> | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [python](./python/53_maximum_subarray.py), [golang](./golang/53_maximum_subarray.go) |
 | 20 | <ul><li>[ ] To Do </li></ul> | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |  |
 | 21 | <ul><li>[ ] To Do </li></ul> | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) |  |
 | 22 | <ul><li>[ ] To Do </li></ul> | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |  |
