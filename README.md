@@ -26,5 +26,5 @@ A new list of solved/unsolved programming problems
 | 21 | <ul><li>[ ] To Do </li></ul> | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) |  |
 | 22 | <ul><li>[ ] To Do </li></ul> | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |  |
 | 23 | <ul><li>[ ] To Do </li></ul> | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) |  |
-| 24 | <ul><li>[ ] To Do </li></ul> | [3Sum](https://leetcode.com/problems/3sum/submissions/) |  |
+| 24 | <ul><li>[ ] To Do </li></ul> | [3Sum](https://leetcode.com/problems/3sum/) |  |
 | 25 | <ul><li>[ ] To Do </li></ul> | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) |  |
