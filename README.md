@@ -23,7 +23,7 @@ A new list of solved/unsolved programming problems
 | 18 | <ul><li>[x] Done </li></ul> | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [python](./python/217_contains_duplicate.py), [golang](./golang/217_contains_duplicate.go) |
 | 19 | <ul><li>[x] Done </li></ul> | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [python](./python/53_maximum_subarray.py), [golang](./golang/53_maximum_subarray.go) |
 | 20 | <ul><li>[x] Done </li></ul> | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [python](./python/238_product_of_array_except_self.py), [golang](./golang/238_product_of_array_except_self.go) |
-| 21 | <ul><li>[ ] To Do </li></ul> | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) |  |
+| 21 | <ul><li>[x] Done </li></ul> | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [python](./python/152_maximum_product_subarray.py), [golang](./golang/152_maximum_product_subarray.go) |
 | 22 | <ul><li>[ ] To Do </li></ul> | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |  |
 | 23 | <ul><li>[ ] To Do </li></ul> | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) |  |
 | 24 | <ul><li>[ ] To Do </li></ul> | [3Sum](https://leetcode.com/problems/3sum/) |  |
