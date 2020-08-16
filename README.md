@@ -25,6 +25,6 @@ A new list of solved/unsolved programming problems
 | 20 | <ul><li>[x] Done </li></ul> | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [python](./python/238_product_of_array_except_self.py), [golang](./golang/238_product_of_array_except_self.go) |
 | 21 | <ul><li>[x] Done </li></ul> | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [python](./python/152_maximum_product_subarray.py), [golang](./golang/152_maximum_product_subarray.go) |
 | 22 | <ul><li>[x] Done </li></ul> | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [python](./python/153_find_minimum_in_rotated_sorted_array.py), [golang](./golang/153_find_minimum_in_rotated_sorted_array.go) |
-| 23 | <ul><li>[x] Done </li></ul> | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [python](./python/33_search_in_rotated_sorted_array.py), [golang](./golang/33_search_in_rotated_sorted_arrays.go) |
+| 23 | <ul><li>[x] Done </li></ul> | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [python](./python/33_search_in_rotated_sorted_array.py), [golang](./golang/33_search_in_rotated_sorted_array.go) |
 | 24 | <ul><li>[ ] To Do </li></ul> | [3Sum](https://leetcode.com/problems/3sum/) |  |
 | 25 | <ul><li>[ ] To Do </li></ul> | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) |  |
