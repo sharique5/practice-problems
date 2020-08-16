@@ -28,3 +28,7 @@ A new list of solved/unsolved programming problems
 | 23 | <ul><li>[x] Done </li></ul> | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [python](./python/33_search_in_rotated_sorted_array.py), [golang](./golang/33_search_in_rotated_sorted_array.go) |
 | 24 | <ul><li>[x] Done </li></ul> | [3Sum](https://leetcode.com/problems/3sum/) | [python](./python/15_3Sum.py), [golang](./golang/15_3Sum.go) |
 | 25 | <ul><li>[x] Done </li></ul> | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [python](./python/11_container_with_most_water.py), [golang](./golang/11_container_with_most_water.go) |
+| 26 | <ul><li>[ ] To Do </li></ul> | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |  |
+| 27 | <ul><li>[ ] To Do </li></ul> | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) |  |
+| 28 | <ul><li>[ ] To Do </li></ul> | [Rotate Image](https://leetcode.com/problems/rotate-image/) |  |
+| 29 | <ul><li>[ ] To Do </li></ul> | [Word Search](https://leetcode.com/problems/word-search/) |  |
