@@ -30,5 +30,5 @@ A new list of solved/unsolved programming problems
 | 25 | <ul><li>[x] Done </li></ul> | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [python](./python/11_container_with_most_water.py), [golang](./golang/11_container_with_most_water.go) |
 | 26 | <ul><li>[x] Done </li></ul> | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [python](./python/73_set_matrix_zeroes.py), [golang](./golang/73_set_matrix_zeroes.go) |
 | 27 | <ul><li>[x] Done </li></ul> | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [python](./python/54_spiral_matrix.py), [golang](./golang/54_spiral_matrix.go) |
-| 28 | <ul><li>[ ] To Do </li></ul> | [Rotate Image](https://leetcode.com/problems/rotate-image/) |  |
+| 28 | <ul><li>[x] Done </li></ul> | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [python](./python/48_rotate_image.py), [golang](./golang/48_rotate_image.go) |
 | 29 | <ul><li>[ ] To Do </li></ul> | [Word Search](https://leetcode.com/problems/word-search/) |  |
