@@ -32,3 +32,8 @@ A new list of solved/unsolved programming problems
 | 27 | <ul><li>[x] Done </li></ul> | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [python](./python/54_spiral_matrix.py), [golang](./golang/54_spiral_matrix.go) |
 | 28 | <ul><li>[x] Done </li></ul> | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [python](./python/48_rotate_image.py), [golang](./golang/48_rotate_image.go) |
 | 29 | <ul><li>[x] Done </li></ul> | [Word Search](https://leetcode.com/problems/word-search/) | [python](./python/79_word_search.py) |
+| 30 | <ul><li>[ ] To Do </li></ul> | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | |
+| 31 | <ul><li>[ ] To Do </li></ul> | [Missing Number](https://leetcode.com/problems/missing-number/) | |
+| 32 | <ul><li>[ ] To Do </li></ul> | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | |
+| 33 | <ul><li>[ ] To Do </li></ul> | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | |
+| 34 | <ul><li>[ ] To Do </li></ul> | [Counting Bits](https://leetcode.com/problems/counting-bits/) | |
