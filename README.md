@@ -32,7 +32,7 @@ A new list of solved/unsolved programming problems
 | 27 | <ul><li>[x] Done </li></ul> | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [python](./python/54_spiral_matrix.py), [golang](./golang/54_spiral_matrix.go) |
 | 28 | <ul><li>[x] Done </li></ul> | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [python](./python/48_rotate_image.py), [golang](./golang/48_rotate_image.go) |
 | 29 | <ul><li>[x] Done </li></ul> | [Word Search](https://leetcode.com/problems/word-search/) | [python](./python/79_word_search.py) |
-| 30 | <ul><li>[ ] To Do </li></ul> | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | |
+| 30 | <ul><li>[x] Done </li></ul> | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [python](./python/191_number_of_1_bits.py), [golang](./golang/191_number_of_1_bits.go) |
 | 31 | <ul><li>[x] Done </li></ul> | [Missing Number](https://leetcode.com/problems/missing-number/) | [python](./python/268_missing_number.py), [golang](./golang/268_missing_number.go) |
 | 32 | <ul><li>[ ] To Do </li></ul> | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | |
 | 33 | <ul><li>[ ] To Do </li></ul> | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | |
