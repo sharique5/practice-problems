@@ -34,6 +34,6 @@ A new list of solved/unsolved programming problems
 | 29 | <ul><li>[x] Done </li></ul> | [Word Search](https://leetcode.com/problems/word-search/) | [python](./python/79_word_search.py) |
 | 30 | <ul><li>[x] Done </li></ul> | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [python](./python/191_number_of_1_bits.py), [golang](./golang/191_number_of_1_bits.go) |
 | 31 | <ul><li>[x] Done </li></ul> | [Missing Number](https://leetcode.com/problems/missing-number/) | [python](./python/268_missing_number.py), [golang](./golang/268_missing_number.go) |
-| 32 | <ul><li>[ ] To Do </li></ul> | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | |
+| 32 | <ul><li>[x] Done </li></ul> | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [python](./python/190_reverse_bits.py), [golang](./golang/190_reverse_bits.go) |
 | 33 | <ul><li>[ ] To Do </li></ul> | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | |
 | 34 | <ul><li>[ ] To Do </li></ul> | [Counting Bits](https://leetcode.com/problems/counting-bits/) | |
