@@ -36,4 +36,4 @@ A new list of solved/unsolved programming problems
 | 31 | <ul><li>[x] Done </li></ul> | [Missing Number](https://leetcode.com/problems/missing-number/) | [python](./python/268_missing_number.py), [golang](./golang/268_missing_number.go) |
 | 32 | <ul><li>[x] Done </li></ul> | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [python](./python/190_reverse_bits.py), [golang](./golang/190_reverse_bits.go) |
 | 33 | <ul><li>[x] Done </li></ul> | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [python](./python/371_sum_of_two_integers.py), [golang](./golang/371_sum_of_two_integers.go) |
-| 34 | <ul><li>[ ] To Do </li></ul> | [Counting Bits](https://leetcode.com/problems/counting-bits/) | |
+| 34 | <ul><li>[x] Done </li></ul> | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [python](./python/338_counting_bits.py), [golang](./golang/338_counting_bits.go) |
