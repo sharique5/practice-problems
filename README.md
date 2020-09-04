@@ -37,3 +37,6 @@ A new list of solved/unsolved programming problems
 | 32 | <ul><li>[x] Done </li></ul> | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [python](./python/190_reverse_bits.py), [golang](./golang/190_reverse_bits.go) |
 | 33 | <ul><li>[x] Done </li></ul> | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [python](./python/371_sum_of_two_integers.py), [golang](./golang/371_sum_of_two_integers.go) |
 | 34 | <ul><li>[x] Done </li></ul> | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [python](./python/338_counting_bits.py), [golang](./golang/338_counting_bits.go) |
+| 35 | <ul><li>[ ] </li></ul> | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) |  |
+| 36 | <ul><li>[ ] </li></ul> | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) |  |
+| 37 | <ul><li>[ ] </li></ul> | [Insert Interval](https://leetcode.com/problems/insert-interval/) |  |
